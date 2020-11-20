@@ -12,12 +12,12 @@ body {
     z-index: -1;
 }
 .top-left {
-    top: -80%;
-    left: -25%;
+    top: -65%;
+    left: -20%;
 }
 .bottom-right {
-    bottom: -95%;
-    right: -20%;
+    bottom: -90%;
+    right: -10%;
 }
 
 main {
