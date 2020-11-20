@@ -28,8 +28,8 @@ main {
     align-items: center;
 }
 #card {
-    width: 320px;
-    height: 350px;
+    width: 350px;
+    height: 380px;
     background-color: #fff;
     border-radius: 15px;
     display: flex;
@@ -52,7 +52,7 @@ main {
     border: 5px solid #fff;
     border-radius: 50%;
     position: relative;
-    top: -90px;
+    top: -95px;
 }
 #card-main div {
     text-align: center;
@@ -70,7 +70,7 @@ main {
 }
 #card-footer .box {
     text-align: center;
-    margin: 20px 30px;
+    margin: 30px;
 }
 
 
