@@ -3,10 +3,12 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 body {
     background-color: hsl(185, 75%, 39%);
     font-family: 'Kumbh Sans', sans-serif;
 }
+
 .img {
     position: fixed;
     z-index: -1;
@@ -71,6 +73,7 @@ main {
 #card-footer .box {
     text-align: center;
     margin: 30px;
+    cursor: pointer;
 }
 
 
