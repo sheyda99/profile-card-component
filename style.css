@@ -60,7 +60,7 @@ main {
     text-align: center;
     margin-top: -70px;
 }
-#card-main div h2 {
+#card-main div h1 {
     margin-bottom: 10px;
 }
 
@@ -77,10 +77,12 @@ main {
 }
 
 
+h1,
 h2 {
     color: hsl(229, 23%, 23%);
     font-size: 18px;
 }
+h1 span,
 h2 span {
     color: hsl(227, 10%, 46%);
     font-weight: normal;
